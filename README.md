@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ImranGithub2
 - 👀 I’m interested in Frontend Web developer
-- 🌱 I’m currently learning HTML,CSS,JS
+- 🌱 Skilled in HTML,CSS,JS
+- Eager to learn more
 - 💞️ I’m looking to collaborate on fresher roles
 - 📫 How to reach me www.linkedin.com/in/shaik-imran-linked-in,
 - imranshake786.is@gmail.com
